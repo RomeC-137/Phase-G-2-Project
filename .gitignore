@@ -26,3 +26,4 @@ venv.bak/
 
 # Local data folder (where users extract zipped data)
 Data/
+rotten_tomatoes_critic_reviews.csv/
